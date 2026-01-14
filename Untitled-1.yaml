@@ -1,0 +1,21 @@
+
+---
+
+## Files Description
+
+### 1. continuous_hho.py
+- **Purpose:** Demonstrates how HHO works step by step  
+- **Objective Function:** Sphere function  
+- **What it shows:**  
+  - Exploration and exploitation phases  
+  - Energy of the prey controlling behavior  
+  - Levy flight for rapid dives  
+  - Convergence of fitness over iterations  
+
+### 2. engineering_example_hho.py
+- **Purpose:** Applies HHO to a simple engineering optimization problem  
+- **Scenario:** Minimize fuel consumption of a car by tuning speed and engine parameter  
+- **What it shows:**  
+  - Optimization of a real problem  
+  - Best solution after iterations  
+  - Convergence of fitness demonstrating precision improvement  
